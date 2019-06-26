@@ -1,0 +1,17 @@
+Rockwel Automation Inc. is a big automation company .It has headquater in London and has 17 other offshore development centers.The company comprises of 35000 employees. Initially it had  its own private cloud for their IT solutions but since company is progressing very well.As a result of which its private cloud  is not able satisfy company's need.
+The problem with private cloud is that as the company flourishes it will build center to different place and then for that center it will have to again grant permission and various other formalities it need to complete.
+ Due to which company wishes to move toward  to Amazon Web Services public Cloud Like Infrastructure as Service.And it seems like perfect solution for company.
+Amazon Web Service public Cloud is a service which could be accessible globally and then company do not have to worry about deploying its service to do different -diifferent center. All the services,entities and information could be hosted on public cloud and could be viewed and access by all its employees.
+	 
+Functionality:
+1)Admin can login 
+2)Employee can login
+3)Admin can access the service
+4)Employee can acess the service
+5)Admin can modify any service
+
+Non-Functionality:
+Pay_roll of employee
+Company policy and regulations
+
+
